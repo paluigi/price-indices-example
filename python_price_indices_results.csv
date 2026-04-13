@@ -1,0 +1,9 @@
+dataset,start_period,end_period,index_name,value,time_seconds,num_products,matches_r,python_faster
+performance_price_data.csv,2024-01,2024-02,Jevons,1.2007598,0.0206,1200,True,True
+performance_price_data.csv,2024-01,2024-02,Carli,269.7122261,0.0211,1200,True,True
+performance_price_data.csv,2024-01,2024-02,Dutot,1.1356881,0.0144,1200,True,True
+performance_price_data.csv,2024-01,2024-02,Fisher,1.1134794,0.0541,1200,True,True
+performance_price_data.csv,2024-01,2024-02,Laspeyres,1.0894350,0.0168,1200,True,True
+performance_price_data.csv,2024-01,2024-02,Paasche,1.1380544,0.0123,1200,True,True
+performance_price_data.csv,2024-01,2024-02,Tornqvist,1.1659062,0.0171,1200,False,True
+performance_price_data.csv,2024-01,2024-02,Walsh,0.7669734,0.0168,1200,False,True
